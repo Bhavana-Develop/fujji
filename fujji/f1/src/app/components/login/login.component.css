@@ -1,0 +1,13 @@
+.card {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(42, 248, 255, 0.945);
+}
+
+.mat-form-field {
+  width: 100%; 
+}
+
+.mat-card {
+  margin: auto; 
+  max-width: 400px; 
+}
